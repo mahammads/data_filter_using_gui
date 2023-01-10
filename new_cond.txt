@@ -1,0 +1,41 @@
+ if v1r1 <= v1s1 < v1r2
+ and v2r1 <= v2s1 < v2r2
+ and v3r1 <= v3s1 < v3r2
+ and v4r1 <= v4s1 < v4r2
+
+ and v1r2 <= v1s2 < v1r3
+ and v2r2 <= v2s2 < v2r3
+ and v3r2 <= v3s2 < v3r3
+ and v4r2 <= v4s2 < v4r3
+
+ and v1r3 <= v1s3 < v1r4
+ and v2r3 >= v2s3 > v2r4
+ and v3r3 >= v3s3 > v3r4
+ and v4r3 >= v4s3 > v4r4
+
+ and v1r4 <= v1s4 < v1r5
+ and v2r4 <= v2s4 < v2r5
+ and v3r4 <= v3s4 < v3r5
+ and v4r4 <= v4s4 < v4r5:
+
+
+
+    v1s1 = -0.04
+    v2s1 = -0.036
+    v3s1 = -0.036
+    v4s1 = -0.036
+
+    v1s2 = -0.034
+    v2s2 = -0.033
+    v3s2 = -0.034
+    v4s2 = -0.033
+
+    v1s3 = -0.033
+    v2s3 = -0.032
+    v3s3 = -0.03
+    v4s3 = -0.03
+
+    v1s4 = -0.031
+    v2s4 = -0.032
+    v3s4 = -0.031
+    v4s4 = -0.030
